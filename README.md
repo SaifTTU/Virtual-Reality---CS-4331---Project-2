@@ -7,6 +7,6 @@ Click "developement" folder to see images of the game in progress.
 
 Update: so the developement photo actually doesn't let you see, or preview the images I posted.
 
-Bellow is the video of our completed game that I never got around to uploading on github but here it is:
+However, this is the video of our completed game that I never got around to uploading on github but here it is:
 
 https://www.youtube.com/watch?v=3IXx7vdjOA4
